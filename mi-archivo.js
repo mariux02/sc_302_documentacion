@@ -1,2 +1,2 @@
 console.log('hola mundo')
-Esta es una practica de github
+console.log('Mariana Ulate Campos')
